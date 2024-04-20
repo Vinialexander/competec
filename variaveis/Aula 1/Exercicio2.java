@@ -5,6 +5,23 @@ public class Exercicio2 {
     public static void main(String[] args) {
         // Escreva seu código aqui ⬇️
 
+        //NOME
+         
+        char nomedocolega = "rafael";
+
+        char meunome = "vinicius";
+
+        boolean OsNomesSaoIguais = vinicius != rafael;
+
+        //IDADE
+
+        int profidade = 21;
+
+        int minhaidade = 15;
+
+        boolean NossasIdades = 21 > 15;
+
+       
 
     }
 }
