@@ -7,6 +7,14 @@ public class Exercicio1 {
     public static void main(String[] args) {
         // Escreva seu código aqui ⬇️
 
+        //LOJINHA DO JÃO
+
+        double fruta1 = 7,30;
+        double fruta2 = 2.00;
+        double fruta3 = 3.00;
+
+        total = fruta1 + fruta2 + fruta3;
+        Systen.out.println("valor");
 
     }
 }
