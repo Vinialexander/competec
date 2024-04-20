@@ -14,7 +14,7 @@ public class Exercicio1 {
         double fruta3 = 3.00;
 
         total = fruta1 + fruta2 + fruta3;
-        Systen.out.println("valor");
+        Systen.out.println(total);
 
     }
 }
